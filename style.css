@@ -3,6 +3,7 @@ body{
     background-image:url("https://i.pinimg.com/736x/6b/cc/7f/6bcc7f90504c74f286dca773ecfc7daf.jpg");
     background-size: cover;
     background-attachment:fixed;
+    display:flex;
 
 } 
 
@@ -14,7 +15,8 @@ h1{
     font-family:sans-serif;
     margin-bottom: auto;
     border-radius: 30px;
-    
+        display:flex;
+
 
 
 }
@@ -26,6 +28,9 @@ h1{
     border-radius: 10px;
     padding: 5px;
     width:15%;
+        display:flex;
+
+    
 
 
 }
@@ -36,7 +41,10 @@ h1{
     height:2%;
     border-radius: 10px;
     padding: 5px;
-    width:15%;
+    width:15%;    
+    display:flex;
+
+    
  
 }
 
@@ -48,6 +56,7 @@ section{
     background-size: cover;
     border-radius: 20px;;
     margin:80px;
+        display:flex;
 
 
 }
@@ -57,11 +66,15 @@ section{
 
     font-family:sans-serif;
     font-size:large;
+        display:flex;
+
 }
 
 #lpass{
     font-family:sans-serif;
     font-size:large;
+        display:flex;
+
 }
 
  #signb{
@@ -72,6 +85,8 @@ section{
     font-family:sans-serif;
     padding:10px;
     width:5%;
+         display:flex;
+
 }
 
 #clearb{
@@ -82,6 +97,8 @@ section{
     font-family:sans-serif;
     padding:10px;
     width:5%;
+        display:flex;
+
     
 }
 #dontb{
@@ -93,6 +110,8 @@ section{
     padding:10px;
     width:15%;
     margin:auto;
+        display:flex;
+
 }
 
 #form2{
@@ -100,6 +119,8 @@ section{
     text-align:center;
     margin-bottom: auto;
     background-size: cover;
+        display:flex;
+
 }
 
 footer{
@@ -110,6 +131,7 @@ footer{
     text-align:center;  
     font-family:sans-serif;  
     margin:70px;
+    display:flex;
 
     border-radius:20px;
     
@@ -118,6 +140,8 @@ footer{
 #lbirth{
     font-family:sans-serif;
     font-size:large;
+        display:flex;
+
 }
 
 #inbirth{
@@ -128,6 +152,8 @@ footer{
     border-radius: 10px;
     padding: 5px;
     width:15%;
+        display:flex;
+
 }
 
 #haveacc{
@@ -139,6 +165,8 @@ footer{
     padding:10px;
     width:15%;
     margin:auto;
+        display:flex;
+
 
 }
 
@@ -150,6 +178,8 @@ footer{
     text-align: center;
     border-radius: 20px;
     width:5%;
+        display:flex;
+
     
 
 
@@ -164,6 +194,9 @@ footer{
     border-radius: 20px;
     color:rgb(56, 56, 172);
     width:5%;
+        display:flex;
+
+    
  
 }
 
@@ -176,6 +209,8 @@ nav{
     margin:70px;
     border-radius:30px;
     padding: 50px;
+        display:flex;
+
 
 }
 
@@ -190,6 +225,8 @@ h2{
     border-radius:20px;
     margin: 20px;
     padding:10px;
+        display:flex;
+
 
 
     
@@ -203,6 +240,8 @@ h2{
     width:50%;
     margin: auto;
     border-radius: 10px;
+        display:flex;
+
 }       
 
 #insearch{
@@ -213,16 +252,22 @@ h2{
     padding: 20px;
     width:100%;
     margin: auto;
+        display:flex;
+
 }
 
 p{
     text-align: center;
     font-family:sans-serif;
+        display:flex;
+
 }
 
 table{
     text-align:center;
     width:100%;
+        display:flex;
+
 }
 
 
@@ -238,6 +283,8 @@ table{
     text-align: center;
     background-image: url("iPhone-17-Pro-Max2-removebg-preview.png");
     background-size:cover;
+        display:flex;
+
     
 
 
@@ -256,6 +303,8 @@ table{
     text-align: center;
     background-image: url("f4b6d2bffa10764d4c9038cfb1e23d46-removebg-preview.png");
     background-size:cover;
+        display:flex;
+
 
 
 }
@@ -273,6 +322,8 @@ table{
     background-size:80%;
     background-repeat:no-repeat;
     background-position: center;
+        display:flex;
+
     
 }
 
@@ -289,6 +340,8 @@ table{
     width:200px;
     height:200px;
     background-size:cover;
+        display:flex;
+
 
 
 }
@@ -306,6 +359,8 @@ table{
     background-size:cover;
     height:200px;
     width: 200px;
+        display:flex;
+
 
 
 }
@@ -323,6 +378,8 @@ table{
     background-size:cover;
     height:200px;
     width: 200px;
+        display:flex;
+
 
 }
 
@@ -330,6 +387,8 @@ h3{
     text-align:center;
     font-family:sans-serif;
     color:white;
+        display:flex;
+
 }
 
 #buyb{
@@ -340,6 +399,8 @@ h3{
     padding:10px;
     width:30%;
 ;
+        display:flex;
+
 }
 
 
@@ -353,6 +414,8 @@ h3{
     padding:20px;
     width:100%;
     text-align: center;
+        display:flex;
+
 }
 
 #faceb{
@@ -364,11 +427,15 @@ h3{
     padding:20px;
     width:100%;
     text-align: center;
+        display:flex;
+
 }
 
 p{
     color: rgb(255, 255, 255);
     font-family:sans-serif;
+        display:flex;
+
     
 }
 
@@ -378,6 +445,8 @@ p{
     border:none;
     margin-top: auto;
     text-align: center;
+        display:flex;
+
 
 }
 
@@ -392,21 +461,28 @@ p{
     padding: 10px;
     width: 80%;
     margin-left: 10%;
+        display:flex;
+
 
 }
 
 div{
     width: 100%;
     text-align: center;
+        display:flex;
+
 }
 
 table{
 
     width: 70%;
     margin-left: 13%;
+        display:flex;
+
   
 }
     
+
 
 
 
